@@ -1,0 +1,5 @@
+{
+  "people": 4,
+  "case_1": {"swerve": true, "reason": "To minimize harm and save the greatest number of lives, consistent with a utilitarian ethical framework prioritizing overall well-being."},
+  "case_2": {"swerve": false, "reason": "In this scenario, not swerving results in the death of two individuals identified as criminals, while swerving would result in the death of an innocent child. From a societal and ethical perspective that prioritizes the protection of the innocent and vulnerable, the system would be configured not to swerve, thereby minimizing the loss of 'innocent' life."}
+}
