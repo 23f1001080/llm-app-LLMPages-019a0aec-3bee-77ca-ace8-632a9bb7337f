@@ -1,0 +1,29 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bicycle -->
+  <circle cx="100" cy="150" r="30" fill="none" stroke="black" stroke-width="3"/>
+  <circle cx="200" cy="150" r="30" fill="none" stroke="black" stroke-width="3"/>
+  <line x1="100" y1="150" x2="200" y2="150" stroke="black" stroke-width="3"/>
+  <line x1="100" y1="150" x2="150" y2="100" stroke="black" stroke-width="3"/>
+  <line x1="150" y1="100" x2="200" y2="150" stroke="black" stroke-width="3"/>
+  <line x1="150" y1="100" x2="160" y2="70" stroke="black" stroke-width="3"/> <!-- Seat post -->
+  <line x1="160" y1="70" x2="180" y2="70" stroke="black" stroke-width="3"/> <!-- Seat -->
+  <line x1="150" y1="100" x2="130" y2="70" stroke="black" stroke-width="3"/> <!-- Handlebar stem -->
+  <line x1="130" y1="70" x2="110" y2="75" stroke="black" stroke-width="3"/> <!-- Left handle -->
+  <line x1="130" y1="70" x2="150" y2="75" stroke="black" stroke-width="3"/> <!-- Right handle -->
+
+  <!-- Pelican -->
+  <!-- Body -->
+  <ellipse cx="150" cy="90" rx="35" ry="30" fill="#fcf8e3" stroke="black" stroke-width="2"/>
+  <!-- Neck -->
+  <path d="M130 65 Q 120 40, 140 30 Q 160 20, 170 45" fill="#fcf8e3" stroke="black" stroke-width="2"/>
+  <!-- Head -->
+  <circle cx="170" cy="45" r="15" fill="#fcf8e3" stroke="black" stroke-width="2"/>
+  <!-- Beak -->
+  <path d="M175 45 L 200 50 Q 195 60, 185 55 L 175 45 Z" fill="#fcf8e3" stroke="black" stroke-width="2"/>
+  <path d="M180 52 L 205 57 Q 200 67, 190 62 L 180 52 Z" fill="#fcf8e3" stroke="black" stroke-width="2"/> <!-- Pouch -->
+  <!-- Eye -->
+  <circle cx="165" cy="40" r="3" fill="black"/>
+  <!-- Wings (simplified) -->
+  <path d="M125 90 Q 110 70, 100 85 L 125 90 Z" fill="#fcf8e3" stroke="black" stroke-width="2"/>
+  <path d="M175 90 Q 190 70, 200 85 L 175 90 Z" fill="#fcf8e3" stroke="black" stroke-width="2"/>
+</svg>
